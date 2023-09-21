@@ -1,3 +1,5 @@
+package dog
+
 import {
     "strings"
 }
