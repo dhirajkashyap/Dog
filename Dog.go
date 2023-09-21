@@ -1,5 +1,5 @@
 import {
-    strings
+    "strings"
 }
 
 func WhenGrownUp(s string) string {
