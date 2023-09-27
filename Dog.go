@@ -2,11 +2,12 @@ package dog
 
 import {
     "fmt"
-    "strings"
+    //"strings"
 }
 
 func WhenGrownUp(s string) string {
-    return "When it grows up, the Puppy says" + strings.ToUpper(s)
+    return "When it grows up, the Puppy says Not working!!"
+    //return "When it grows up, the Puppy says" + strings.ToUpper(s)
 }
 
 func WhenStillBaby() string {
