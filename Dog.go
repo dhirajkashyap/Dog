@@ -1,9 +1,9 @@
 package dog
 
-import {
+import (
     "fmt"
-    //"strings"
-}
+    "strings"
+)
 
 func WhenGrownUp(s string) string {
     return "When it grows up, the Puppy says Not working!!"
